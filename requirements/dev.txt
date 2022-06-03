@@ -182,9 +182,9 @@ lazy-object-proxy==1.4.3 \
     --hash=sha256:eba7011090323c1dadf18b3b689845fd96a61ba0a1dfbd7f24b921398affc357 \
     --hash=sha256:efa1909120ce98bbb3777e8b6f92237f5d5c8ea6758efea36a473e1d38f7d3e4 \
     --hash=sha256:f3900e8a5de27447acbf900b4750b0ddfd7ec1ea7fbaf11dfa911141bc522af0
-Pygments==2.5.2 \
-    --hash=sha256:2a3fe295e54a20164a9df49c75fa58526d3be48e14aceba6d6b1e8ac0bfd6f1b \
-    --hash=sha256:98c8aa5a9f778fcd1026a17361ddaf7330d1b7c62ae97c3bb0ae73e0b9b6b0fe
+Pygments==2.7.4 \
+    --hash=sha256:bc9591213a8f0e0ca1a5e68a479b4887fdc3e75d0774e5c71c31920c427de435 \
+    --hash=sha256:df49d09b498e83c1a73128295860250b0b7edd4c723a32e9bc0d295c7c2ec337
 prompt-toolkit==1.0.18 \
     --hash=sha256:37925b37a4af1f6448c76b7606e0285f79f434ad246dda007a27411cca730c6d \
     --hash=sha256:dd4fca02c8069497ad931a2d09914c6b0d1b50151ce876bc15bde4c747090126 \
